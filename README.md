@@ -35,7 +35,7 @@ According to the internship requirements, the model was evaluated using the foll
 The model shows strong performance in identifying creditworthy individuals (high recall for "Good Risk"), which is essential for minimizing lost opportunities in lending.
 
 ## 📂 Repository Structure
-*   `Credit_Scoring_Model.ipynb`: Complete source code and analysis.
+*   `german_credit_data_analysis.ipynb`: Complete source code and analysis.
 *   `german_credit_data.csv`: Dataset used for training and testing.
 *   `README.md`: Project documentation.
 
